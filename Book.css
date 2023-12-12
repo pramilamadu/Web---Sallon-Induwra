@@ -1,0 +1,88 @@
+body {
+	background-image: url(img/img11.jpg);
+	background-size: cover;
+	background-position: center;
+}
+
+.booking-form-box{
+	max-width: 400px;
+	border: none;
+	margin: 10% auto 0;
+}
+
+.booking-form {
+	padding: 0 20px 20px;
+}
+
+.booking-form label {
+	margin-bottom: 5px;
+	margin-top: 10px;
+	font-size: 12px;
+	color: #fff ;
+}
+
+.input::placeholder{
+	color: #fff ! !important;
+}
+
+.input-grp {
+	width: 350px;
+	color: #FD0DE7;
+}
+
+.form-control {
+	font-size: 12px ! !important;
+	border-radius: 0 ! !important;
+	color: #fff ! !important;
+	background: transparent ! !important;
+	background-color: #DBF7D5;
+	box-shadow: none ! !important;
+}
+
+h3 {
+	color: black;
+}
+
+.label{
+	color: #FD0DE7;
+}
+
+.form-control input {
+	display: block;
+	border: none;
+	font-size: 20px;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+	background-color: #E65332;
+}
+.textarea input{
+	display: block;
+	border: none;
+	font-size: 17px;
+	border-bottom: 2px solid rgba(0, 0, 0, 0.12);
+}
+
+input[type=text]{
+	background-color: #DBF7D5;
+}
+
+input[type=date]{
+	background-color: #DBF7D5;
+}
+
+input[type=submit]{
+	background-color: #BDFBCE;
+}
+
+.Branch{
+	background-color: #DBF7D5;
+	border: none;
+}
+
+.texti{
+	font-size: 18px;
+}
+
+::placeholder{
+	font-size: 25px;
+}
+
